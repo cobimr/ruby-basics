@@ -1,9 +1,9 @@
 # Write an Angry Boss program. It should rudely ask what you want. Whatever you answer, the Angry Boss should yell it back to you and then ﬁre you. For example, if you type in “I want a raise”, it should yell back like this: WHADDAYA MEAN “I WANT A RAISE”?!? YOU’RE FIRED!!
 
-# puts "What do you want?!"
-# wanted = gets.chomp
+puts "What do you want?!"
+wanted = gets.chomp
 
-# puts "WHADDAYA MEAN “#{wanted.upcase}”?!? YOU’RE FIRED!!"
+puts "WHADDAYA MEAN “#{wanted.upcase}”?!? YOU’RE FIRED!!"
 
 # So here's something for you to do in order to play around more with center, ljust, and rjust: Write a program which will display a Table of Contents so that it looks like this:
 #                 Table of Contents                                               
