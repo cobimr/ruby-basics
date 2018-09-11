@@ -1,6 +1,6 @@
 # Ruby is Object-Oriented
 
-![logo](https://github.com/cobimr/ruby-basics/blob/master/ruby.png =250x)
+<img src="https://github.com/cobimr/ruby-basics/blob/master/ruby.png" alt="logo" width="200"/>
 
 Ruby is an Object-Oriented programming language which means that all the things we interact with inside the VM are objects. Each piece of data is an object. Objects hold information, called attributes, and they can perform actions, called methods.
 
