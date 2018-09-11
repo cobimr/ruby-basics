@@ -1,5 +1,12 @@
 # This is a String
 my_string = "Hello World!"
+letters = 'aAbBcCdDeE'
+
+# Basics methods
+letters.upcase
+letters.downcase
+letters.swapcase
+letters.capitalize
 
 # Substring method
 my_string[0..4] # Returns "Hello"
@@ -7,6 +14,9 @@ my_string[4..-1] # Returns "World!"
 
 # Length method
 my_string.length # Returns 11
+
+
+
 
 # Split method
 my_string.split # Returns an array of the string: ["Hello","World!"]
