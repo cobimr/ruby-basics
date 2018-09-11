@@ -1,4 +1,4 @@
-#Ruby is Object-Oriented
+# Ruby is Object-Oriented
 
 ![ruby_logo]('https://github.com/cobimr/ruby-basics/blob/master/ruby.png')
 
